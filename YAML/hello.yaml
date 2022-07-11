@@ -1,0 +1,18 @@
+"apple" : " I am a red fruit"
+1: "this is kunal's roll number"
+---
+# lists
+- apple
+- mango
+- banana
+---
+cities:
+
+---
+cities: [new delhi, dhaka]
+---
+cities:
+- new delhi
+- dhaka
+- rangamati
+...

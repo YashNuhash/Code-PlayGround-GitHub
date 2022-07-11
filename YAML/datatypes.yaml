@@ -1,0 +1,20 @@
+# strings variable 
+myself: Kunal Kushwaha
+fruit: "apple"
+job: 'swe'
+
+bio:
+hey his course are awsume.
+he is sedulous.
+
+# write a single line in multiple lines
+message: >
+this will 
+be 
+in one single line
+
+#same as 
+message: this will be at one single line
+number: 5497
+marks : 56.95
+booleanValue: No # n
