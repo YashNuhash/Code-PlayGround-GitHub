@@ -7,7 +7,7 @@ MY All codes &amp; Notes will be Here
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
 | Codeforces | [NUHASHROXME](https://codeforces.com/profile/NUHASHROXME) | 410 |
-| CodeChef | [sjshohag](https://www.codechef.com/users/sjshohag) | 331 |
+| CodeChef | [nuhashroxme](https://www.codechef.com/users/nuhashroxme) | 3 |
 | AtCoder | [YouKn0wWho](https://atcoder.jp/users/YouKn0wWho) | 247 |
 | SPOJ | [sjshohag](https://www.spoj.com/users/sjshohag/) | 173 | 
 | LightOJ | [youkn0wwho](https://lightoj.com/user/youkn0wwho) | 174 | 
