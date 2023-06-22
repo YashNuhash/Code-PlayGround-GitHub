@@ -6,7 +6,7 @@
 | -- | -------- | ----------- |
 | Codeforces | [NUHASHROXME](https://codeforces.com/profile/NUHASHROXME) | 410 |
 | CodeChef | [nuhashroxme](https://www.codechef.com/users/nuhashroxme) | 3 |
-| AtCoder | [YouKn0wWho](https://atcoder.jp/users/YouKn0wWho) | 247 |
+| AtCoder | [NUHASHROXME](https://atcoder.jp/users/NUHASHROXME) | 2 |
 | SPOJ | [sjshohag](https://www.spoj.com/users/sjshohag/) | 173 | 
 | LightOJ | [youkn0wwho](https://lightoj.com/user/youkn0wwho) | 174 | 
 | Toph | [YouKnowWho](https://toph.co/u/YouKnowWho) | 339 |
