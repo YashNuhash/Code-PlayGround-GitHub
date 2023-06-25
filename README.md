@@ -17,6 +17,6 @@
 | Kattis | [shahjalal-shohag](https://open.kattis.com/users/shahjalal-shohag) | 9 |
 | CS Academy | [YouKnowWho](https://csacademy.com/user/YouKnowWho) | 14 |
 | TOKI | [YouKnowWho](https://tlx.toki.id/profiles/YouKnowWho) | 30 |
-| Total | | 5081 |
+| Total | | 508 |
 
-Last Updated: 21 Dec, 2022
+Last Updated: 21 June, 2023
