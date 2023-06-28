@@ -9,8 +9,8 @@
 | AtCoder | [NUHASHROXME](https://atcoder.jp/users/NUHASHROXME) | 2 |
 | SPOJ | [sjshohag](https://www.spoj.com/users/sjshohag/) | 173 | 
 | LightOJ | [nuhashroxme](https://lightoj.com/user/nuhashroxme) | 4 | 
-| Toph | [YouKnowWho](https://toph.co/u/YouKnowWho) | 339 |
-| Vjudge | [sjshohag](https://vjudge.net/user/sjshohag) | 1006 |
+| Toph | [](https://toph.co/u/YouKnowWho) | 339 |
+| Vjudge | [](https://vjudge.net/user/sjshohag) | 1006 |
 | UVA | [Shahjalalshohag](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=888069) | 19 |
 | HackerEarth | [shahjalalshohag](https://www.hackerearth.com/@shahjalalshohag) | 10 |
 | HackerRank | [shahjalalshohag1](https://www.hackerrank.com/shahjalalshohag1) | 10 |
